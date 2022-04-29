@@ -1,0 +1,45 @@
+.shapeList{
+
+}
+
+input{
+  width: 30px;
+  height:20px;
+  border-color: darkgray;
+  border-style: solid;
+  border-radius: 2mm;
+  padding: 5px 5px;
+  position: absolute;
+}
+#rectangle{
+  top: 100px;
+  right: 60px;
+}
+#line{
+  top: 100px;
+  right: 18px;
+}
+#ellipse{
+  top: 134px;
+  right: 60px;
+}
+#circle{
+  top: 134px;
+  right: 18px;
+  width: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#triangle{
+  top: 168px;
+  right: 60px;
+}
+#rightTri{
+  top: 168px;
+  right: 18px;
+}
+#cursor{
+  top: 200px;
+  right: 18px;
+  background-color: lightgrey;
+}

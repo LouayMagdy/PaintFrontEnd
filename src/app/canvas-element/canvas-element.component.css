@@ -1,0 +1,10 @@
+#body{
+  display: flex;
+}
+#canvasElement{
+  background: whitesmoke;
+  border-style: solid;
+  border-color: lightgrey;
+  border-radius: 3mm;
+}
+

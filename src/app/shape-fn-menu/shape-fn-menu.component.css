@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+#shapeFn{
+  position: absolute;
+  display: none;
+  text-decoration: none;
+  left: 500px;
+  top: 250px;
+  background: dimgrey;
+}
+.shapeList{
+  list-style-type: none;
+  padding-left: 5mm;
+  padding-right: 5mm;
+  text-align: center;
+  color: white;
+  font-family: 'poppins';
+  font-size: large;
+}
+#copy{
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 0.01mm;
+}
+#move{
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 0.01mm;
+}
+#delete{
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 0.01mm;
+}
+#scale{
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 0.01mm;
+}
+#fill{
+  cursor: pointer;
+  border-bottom-style: solid;
+  border-bottom-width: 0.01mm;
+}
+#close{
+  cursor: pointer;
+}
